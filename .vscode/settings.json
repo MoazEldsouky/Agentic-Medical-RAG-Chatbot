@@ -1,6 +1,8 @@
 {
     "cSpell.words": [
         "FAISS",
-        "HUGGINGFACE"
+        "HUGGINGFACE",
+        "intfloat",
+        "utlis"
     ]
 }
