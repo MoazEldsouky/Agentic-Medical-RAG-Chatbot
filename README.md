@@ -27,7 +27,7 @@ A Retrieval-Augmented Generation (RAG) based medical chatbot with agentic capabi
 
 ## Demo
 
-[![Watch the demo on YouTube]](https://www.youtube.com/watch?v=MuRdFiiDmf0)
+[Watch the demo on YouTube](https://www.youtube.com/watch?v=MuRdFiiDmf0)
 
 ![Chatbot Demo Screenshot](assets/1.png)
 
