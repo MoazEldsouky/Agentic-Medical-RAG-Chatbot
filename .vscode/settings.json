@@ -3,6 +3,7 @@
         "FAISS",
         "HUGGINGFACE",
         "intfloat",
+        "tavily",
         "utlis"
     ]
 }
