@@ -1,5 +1,6 @@
 gradio==5.41.1
 huggingface_hub==0.34.3
+sentence-transformers==5.0.0
 langchain==0.3.27
 langchain_community==0.3.27
 langchain_huggingface==0.3.1
