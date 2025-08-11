@@ -35,6 +35,17 @@ A Retrieval-Augmented Generation (RAG) based medical chatbot with agentic capabi
 
 ---
 
+---
+
+## Show Experimentations
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/drive/14Dy79AxKPHf-7X0C5gkTs-GyobPLtudy?usp=sharing)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](
+https://www.kaggle.com/code/moazeldsokyx/agentic-medical-rag-chatbot-for-an-arabic-company)
+
+---
+
 ## Project Structure
 
 ```
