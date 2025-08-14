@@ -67,7 +67,7 @@ Agentic-Medical-RAG-Chatbot/
 ├── notebooks/                  # Jupyter notebooks for experiments
 ├── assets/                     # Images and other assets
 ├── requirements.txt            # Python dependencies
-├── README.md                   # This file
+├── README.md                   
 └── LICENSE
 ```
 
