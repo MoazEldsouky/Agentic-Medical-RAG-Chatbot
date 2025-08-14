@@ -58,10 +58,10 @@ Agentic-Medical-RAG-Chatbot/
 │   ├── text_processor.py       # Text preprocessing and chunking
 │   ├── tools.py                # Tool definitions for agent
 │   ├── utils.py                # Utility functions
-│   └── vector_store.py         # Vector store management (e.g., FAISS)
+│   └── vector_store.py         # Vector store management 
 │
 ├── data/
-│   ├── raw_company_info/       # Raw data (e.g., FAQ.csv, info.md)
+│   ├── raw_company_info/       # Raw data 
 │   └── processed/              # Processed data and vector indices
 │
 ├── notebooks/                  # Jupyter notebooks for experiments
