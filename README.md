@@ -64,7 +64,6 @@ Agentic-Medical-RAG-Chatbot/
 │   ├── raw_company_info/       # Raw data 
 │   └── processed/              # Processed data and vector indices
 │
-├── notebooks/                  # Jupyter notebooks for experiments
 ├── assets/                     # Images and other assets
 ├── requirements.txt            # Python dependencies
 ├── README.md                   
