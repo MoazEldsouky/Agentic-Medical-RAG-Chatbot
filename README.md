@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) based medical chatbot with agentic capabilities. This project leverages advanced language models and vector search to provide accurate, context-aware answers to medical queries, using both company-specific and general medical knowledge.
 
-## Table of Contents 
+## Table of Contents  
 
 - [Features](#features)
 - [Demo](#demo)
