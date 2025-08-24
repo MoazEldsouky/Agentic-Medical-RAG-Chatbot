@@ -47,10 +47,10 @@ def create_llm():
     
     try:
         return ChatOpenAI(
-            model="gpt-4o-mini",  # More cost-effective for demos
+            model="gpt-4o",  
             api_key=openai_key,
             base_url=os.getenv("OPENAI_BASE_URL"),  # Optional custom endpoint
-            temperature=0.1,
+            temperature=0.0,
             max_tokens=1024,
             request_timeout=30,  # Increased timeout for stability
             max_retries=2,
